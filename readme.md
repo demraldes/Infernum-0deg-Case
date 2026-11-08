@@ -23,9 +23,9 @@ If you are configuring your own print, you should be able to go without using su
 
 ## Images
 
-![case image](images/1.jpg)
-![case image](images/2.jpg)	
-![case image](images/3.png)
+![case image](Images/1.jpg)
+![case image](Images/2.jpg)	
+![case image](Images/3.png)
 
 ## Credits
 
