@@ -17,7 +17,7 @@ If you are configuring your own print, you should be able to go without using su
 | Part | Spec | Qty | Note |
 | --- | --- | --- | --- |
 | Plate screws | M2 self-tapping, 5-6mm | 4 | |
-| Fasteners | M2 heat-set insert and M2 pan head/flat head screw, 4-6mm | 1 each | *To secure the weight compartment door. There is not a relief or counterbore for the screw head, so use the flattest you can find* |
+| Fasteners | M2 heat-set insert and M2 pan head/flat head screw, 4-6mm | 1 each | *To secure the weight compartment door. There is no relief or counterbore for the screw head, so use the flattest you can find* |
 | Feet | SKUF | 4 | *SKUF can be obtained from keeb.io in the US* |
 | Weights | 1/4 oz, roughly 16 x 18.5 x 3.75 mm | up to 8 | *Recommended to use max number of weights to completely fill the space.* |
 
