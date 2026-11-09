@@ -29,4 +29,6 @@ If you are configuring your own print, you should be able to go without using su
 
 ## Credits
 
+[HaiZeus](https://www.haikey.design/) for creating the Infernum. 
+
 Calumwri for the wheel weight compartment idea, inspired by the battery compartments on many consumer electronics.
